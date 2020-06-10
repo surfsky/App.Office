@@ -26,7 +26,7 @@ namespace App.Spire
             doc.LoadFromFile(filePath);
 
             var files = new List<string>();
-            for (int i = 0; i < doc.BuiltinDocumentProperties.PageCount; i++)
+            for (int i = 0; i < doc.PageCount; i++)
             {
                 var path = string.Format("{0}\\{1:00}.png", saveFolder, i);
                 var image = doc.SaveToImages(i, ImageType.Metafile);

@@ -17,7 +17,7 @@ namespace App.Spire
         {
             // 提示
             Console.WriteLine("---------------------------------------------------------");
-            Console.WriteLine("Office To Images");
+            Console.WriteLine("Office File To Images");
             Console.WriteLine("Version: {0}", IO.GetVersion(typeof(Program)));
             Console.WriteLine("Update: 2020-03-15");
             Console.WriteLine("Author: http://surfsky.github.com/");
