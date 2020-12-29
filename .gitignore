@@ -13,3 +13,10 @@
 /OfficeMarker/.vs
 /OfficeMarker/obj
 /OfficeImager/bin/Deploy
+/PDFMaker/obj/Debug
+/.vs/OfficeImager/v16/*.suo
+/.vs/PdfMaker/v16
+/*.DS_Store
+/PDFMaker/.vs/Watermarker/v15/Server/sqlite3
+/PDFMaker/obj
+/OfficeImager/bin/Debug/demo
